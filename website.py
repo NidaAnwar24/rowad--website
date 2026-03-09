@@ -31,13 +31,21 @@ st.write("""
 st.subheader("2. Brands Delivered")
 st.write("""
 • AL MARASIM
+
 • MODA
+
 • AZZERO
+
 • ARGENTO
+
 • RICARDINO
+
 • DR. RICHEL
+
 • LEONI 
+
 • MARIO FANTINO
+
 • SHIELD
 
 """)
@@ -107,6 +115,7 @@ Phone: +971-507342442
 
 
 st.success("Thank you for visiting our website!")
+
 
 
 
