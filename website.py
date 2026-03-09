@@ -30,15 +30,15 @@ st.write("""
 
 st.subheader("2. Brands Delivered")
 st.write("""
-AL MARASIM  
-MODA  
-AZZERO  
-ARGENTO  
-RICARDINO  
-DR. RICHEL  
-LEONI  
-MARIO FANTINO  
-SHIELD
+•	AL MARASIM
+•	MODA
+•	AZZERO
+•	ARGENTO
+•	RICARDINO
+•	DR. RICHEL
+•	LEONI
+•	MARIO FANTINO
+•	SHIELD
 """)
 
 st.subheader("3. Premium Wool Mussar")
@@ -101,7 +101,8 @@ Rowad Al Anaqa Readymade Garments Trading L.L.C.
 
 Dubai, United Arab Emirates
 
-Phone: +971-55-5537715
+Phone: +971-507342442
 """)
+
 
 st.success("Thank you for visiting our website!")
